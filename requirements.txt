@@ -1,0 +1,7 @@
+argparse
+csv
+dnspython
+requests
+json
+base64
+urllib3
