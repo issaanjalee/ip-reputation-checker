@@ -1,7 +1,7 @@
-vt_api_key = "a3a51c954f3510216b07430af840e88b3732564786dec3ff3baad2033dfd1b06"
-xforce_api_key = 'e8a1d629-02b0-4214-b4c3-78881c9523ad'
-xforce_api_password= "9bb8cba9-f797-46d0-9ca4-5da6b419233f"
-abuse_key='44c00ff3c7ee65968e47f9ad727313fb3d9a63cdd1d79210ba8e388281956e022d286b3f8f3cc6b9'
+vt_api_key = "replace"
+xforce_api_key = "replace"
+xforce_api_password= "replace"
+abuse_key="replace"
 
 urls = [
     #TOR
